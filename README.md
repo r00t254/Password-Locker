@@ -8,5 +8,7 @@ This is a python application that show how one can save and delete password .It 
 python 3.8
 
 pyperclip
+# Technology used 
+
 
 
