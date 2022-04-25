@@ -14,7 +14,7 @@ Python 3.6
 # Known Bugs
 There are no known bugs
 # Contact Information
-You can send your feedback or comments through my e-mail 
+You can send your feedback or comments through my e-mail addresss
 
 
 
