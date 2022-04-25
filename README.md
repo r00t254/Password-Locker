@@ -9,6 +9,7 @@ python 3.8
 
 pyperclip
 # Technology used 
+Python 3.6
 
 
 
