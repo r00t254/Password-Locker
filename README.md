@@ -4,6 +4,15 @@ Mary Auma
 
 # Decription
 This is a python application that show how one can save and delete password .It shows a username and password for each account .It also stores password and generate new password for the user when login.
+
+# User Story
+.To create an account for the application or log into the application.
+.Store my existing acounts login details for various accounts that i have registered for.
+.Generate new password for an account that i haven't registered for and store it with the account name.
+.Delete stored account login details that i do now want anymore.
+.Copy my credentials to the clipboard
+
+
 # Requirements
 python 3.8
 
