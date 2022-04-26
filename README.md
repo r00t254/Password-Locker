@@ -25,10 +25,12 @@ pyperclip
 You can run the application using python3 password.py
 
 # Behaviour Driven Development
+
 Behaviour    	Input	      Output
-Open the application on the terminal	Run the command $ ./interface.py	Hello Welcome to your Accounts Password Store...
-* CA --- Create New Account * LI --- Have An Account
-Select CA	input username and password	Hello username, Your account has been created succesfully! Your password is: password
+
+Open the application on the terminal 	Run the command $ ./interface.pyHello Welcome to your Accounts Password Store...
+* CA ---   Create New Account * LI --- Have An Account
+Select CA	* input username and password  _	Hello username, Your account has been created succesfully! Your password is: password
 Select LI	Enter your password and username you signed up with	Abbreviations menu to help you navigate through the application
 Store a new credential in the application	Enter CC	Enter Account, username, password
 choose tp to enter your password or gp for the application to generate a password for you
